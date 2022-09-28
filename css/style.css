@@ -112,7 +112,9 @@ footer {
 /* PLEASE DO NOT REMOVE MY COMMENTS.  THEY HELP US HELP YOU DEBUG. */
 
 /* Step 1: Write selector/rule property to add an underline when
-links in the navigation are in the hover or focus nav a:hover {
+links in the navigation are in the hover or focus */
+
+nav a:hover {
   text-decoration: underline;
 }
 
